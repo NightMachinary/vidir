@@ -54,7 +54,8 @@ Set VIDIR\_EDITOR_ARGS accordingly:
 
 # SEE ALSO
 
-[vidir-ls][0]
+- [vidir-ls][0]
+- https://github.com/bulletmark/edir
 
 # AUTHOR
     Joey Hess <joey@kitenet.net> 2006-2010
